@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/mooka/static/css/main.c4423b9a.css",
-    "main.js": "/mooka/static/js/main.67f1b907.js",
-    "static/media/logo.jpg": "/mooka/static/media/logo.b4a2553feb66d737d9fe.jpg",
-    "static/media/pic1.PNG": "/mooka/static/media/pic1.9866b82349045edd4453.PNG",
-    "static/media/ipay2.PNG": "/mooka/static/media/ipay2.7e130044ae1b330fc162.PNG",
-    "static/media/pic3.PNG": "/mooka/static/media/pic3.3dbc19cd3c4608548b1b.PNG",
-    "static/media/pic2.PNG": "/mooka/static/media/pic2.84aba6ebd969b82cdc9f.PNG",
-    "static/media/App-Login.jpg": "/mooka/static/media/App-Login.59ffacdc333de255a087.jpg",
-    "static/media/TTT.PNG": "/mooka/static/media/TTT.c6ba7da3ceec5ec91395.PNG",
-    "static/media/linkedin.jpg": "/mooka/static/media/linkedin.ba1d24ffd2e9fa15cce4.jpg",
-    "index.html": "/mooka/index.html",
-    "static/media/line-purple.svg": "/mooka/static/media/line-purple.27209a3cacbec9a90c239cc2555b0a9a.svg",
-    "main.c4423b9a.css.map": "/mooka/static/css/main.c4423b9a.css.map",
-    "main.67f1b907.js.map": "/mooka/static/js/main.67f1b907.js.map"
+    "main.css": "/resume/static/css/main.c4423b9a.css",
+    "main.js": "/resume/static/js/main.50e3a855.js",
+    "static/media/logo.jpg": "/resume/static/media/logo.b4a2553feb66d737d9fe.jpg",
+    "static/media/pic1.PNG": "/resume/static/media/pic1.9866b82349045edd4453.PNG",
+    "static/media/ipay2.PNG": "/resume/static/media/ipay2.7e130044ae1b330fc162.PNG",
+    "static/media/pic3.PNG": "/resume/static/media/pic3.3dbc19cd3c4608548b1b.PNG",
+    "static/media/pic2.PNG": "/resume/static/media/pic2.84aba6ebd969b82cdc9f.PNG",
+    "static/media/App-Login.jpg": "/resume/static/media/App-Login.59ffacdc333de255a087.jpg",
+    "static/media/TTT.PNG": "/resume/static/media/TTT.c6ba7da3ceec5ec91395.PNG",
+    "static/media/linkedin.jpg": "/resume/static/media/linkedin.ba1d24ffd2e9fa15cce4.jpg",
+    "index.html": "/resume/index.html",
+    "static/media/line-purple.svg": "/resume/static/media/line-purple.27209a3cacbec9a90c239cc2555b0a9a.svg",
+    "main.c4423b9a.css.map": "/resume/static/css/main.c4423b9a.css.map",
+    "main.50e3a855.js.map": "/resume/static/js/main.50e3a855.js.map"
   },
   "entrypoints": [
     "static/css/main.c4423b9a.css",
-    "static/js/main.67f1b907.js"
+    "static/js/main.50e3a855.js"
   ]
 }
