@@ -37,9 +37,8 @@ export const Bio = () => {
         where: "Alx-africa ",
         cargo: "Software Engineer",
         description:
-          "",
+          "Still studying",
       },
-      details: ["Reactjs", "Nextjs", "Java", " SpringBoot"],
     },
   ];
   
